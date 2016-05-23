@@ -9,5 +9,7 @@ $(document).ready(function() {
 
     var newMessage = new Message(toField, fromField, messageField);
     console.log(newMessage.read());
+
+    $("#result").text(newMessage.read());
   });
 });
