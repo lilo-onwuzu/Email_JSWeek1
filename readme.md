@@ -24,9 +24,9 @@
 	Install npm (Node Package Manager)
 	Install gulp (Task Manager)
 	In terminal in project root directory:
-		Run 'npm install'
-		Run 'gulp build' for development environment
-		Run 'gulp build --production' for production environment		
+		Run 'npm install' to install all the dependencies
+		Run 'gulp build' to run tasks in development environment
+		Run 'gulp build --production' to run tasks in production environment		
 	Open index.html file in browser
 
 #### _Known Bugs_
