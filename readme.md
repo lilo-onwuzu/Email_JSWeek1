@@ -36,7 +36,7 @@
 	lpr422@gmail.com
 	
 #### _Technologies Used_
-	HTML, Object-Oriented Javascript, Node.js, Node Package Manager(npm), Gulp Task Manager, 
+	HTML, Object-Oriented Javascript, Node js, Node Package Manager(npm), Gulp Task Manager, 
 
 #### _License_
 	This software is licensed under the MIT license
