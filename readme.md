@@ -17,7 +17,7 @@
 	A tool, Node Package Manager(npm) will help us install these dependencies into a new node_modules folder (ignored in git)
 	Another tool Gulp will help us automate these tasks (concatenating, minifying etc) 
 	Gulp will perform these tasks depending on the mode (development or production)
-	The final js script will be save it in a new 'build' folder in a file 'app.js' that is linked in our index.html file
+	The final js script will be save it in a new 'build' folder in a file 'app.js' (ignored in git) that is linked in our index.html file
 	
 #### _Setup/Installation Requirements_
 	Clone this repository
